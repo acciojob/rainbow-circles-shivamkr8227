@@ -6,7 +6,7 @@
 	width:300px;
 	background-color:#ffa500;
 	border-radius:50%;
-	box-shadow: 0 0 0 25px #ff0000;
+	border: 25px solid #ff0000;
 }
 #middle
 {
@@ -16,7 +16,7 @@
 	background-color:#008000;
 	border-radius:50%;
 	margin-left:50px;
-	box-shadow:0 0 0 25px #ffff00;
+	border: 25px solid #ffff00;
 }
 #inner{
 	
@@ -26,6 +26,6 @@
 	width:100px;
 	background-color:#800080;
 	border-radius:50%;
-	box-shadow:0 0 0 25px #0000ff;
+	border: 25px solid #0000ff;
 	margin-left:50px;
 }
